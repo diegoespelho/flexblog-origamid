@@ -27,7 +27,7 @@ Projeto desenvolvido durante curso de CSS Flexbox da Origamid.
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS
+- HTML e CSS Flexbox
 - Git e Github
 - Figma
 
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O FlexBlog é um site criado e estilizado usando unicamente o recurso CSS Flexbox.
 
-- [Acesse o projeto finalizado, online](https://diegoespelho.github.io/bikcraft)
+- [Acesse o projeto finalizado, online](https://diegoespelho.github.io/flexblog/)
 
 - [Assistir aulas](https://www.origamid.com/curso/css-flexbox/)
 
