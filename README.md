@@ -1,16 +1,14 @@
-<h1 align="center"> FlexBlog </h1>
+<h1 align="center">FlexBlog</h1>
 
 <p align="center">
 Projeto desenvolvido durante curso de CSS Flexbox da Origamid.
-<br/>
-<a href="https://www.origamid.com/curso/css-flexbox/">Estude esse projeto em formato de vídeo clicando aqui.</a>
 </p>
 
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -20,34 +18,25 @@ Projeto desenvolvido durante curso de CSS Flexbox da Origamid.
 <br>
 
 <p align="center">
-  <img alt="FlexBlog" src=".github/preview.jpg" width="100%">
+  <img alt="Flexblog" src=".github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- HTML e CSS Flexbox
-- Git e Github
-- Figma
+[![My Skills](https://skillicons.dev/icons?i=html,css,git,github,figma)](https://skillicons.dev)
 
 ## 💻 Projeto
 
-O FlexBlog é um site criado e estilizado usando unicamente o recurso CSS Flexbox.
+Flexblog é um website desenvolvido utilizando CSS Flexbox.
 
-- [Acesse o projeto finalizado, online](https://diegoespelho.github.io/flexblog/)
-
-- [Assistir aulas](https://www.origamid.com/curso/css-flexbox/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/flexblog/)
 
 ## 🔖 Layout
 
-O layout desse projeto foi todo desenvolvido utilizando a ferramenta Figma.
+O layout desse projeto foi desenvolvido utilizando a ferramenta de design Figma.
 
 ## 📝 Licença
 
 Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Origamid 🐺
-
