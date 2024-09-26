@@ -21,15 +21,15 @@ Projeto desenvolvido durante curso de CSS Flexbox da Origamid.
   <img alt="Flexblog" src=".github/preview.jpg" width="100%">
 </p>
 
-## 🚀 Tecnologias
+## 🚀 Tecnologias e Ferramentas
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com as seguintes tecnologias e Ferramentas:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,git,github,figma)](https://skillicons.dev)
 
 ## 💻 Projeto
 
-Flexblog é um website desenvolvido utilizando CSS Flexbox.
+Flexblog é um website desenvolvido e estilizado utilizando CSS Flexbox.
 
 - [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/flexblog/)
 
