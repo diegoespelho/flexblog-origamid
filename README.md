@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias e Ferramentas:
 
 Flexblog é um website desenvolvido e estilizado utilizando CSS Flexbox.
 
-- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/flexblog/)
+- [Acesse o projeto finalizado aqui](https://diegoespelho.github.io/flexblog-origamid/)
 
 ## 🔖 Layout
 
